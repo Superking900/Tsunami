@@ -116,7 +116,7 @@ Read the documentation below to find out more</p>
 ### Locally
 
 ```sh
-git clone https://github.com/FogNetwork/Tsunami
+git clone https://github.com/Superking900/Tsunami
 
 cd Tsunami
 
